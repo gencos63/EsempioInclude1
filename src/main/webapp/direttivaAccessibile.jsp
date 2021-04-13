@@ -20,7 +20,7 @@
 
 <%= "ciao" %>
 <%= 1+1 %>
-PROVA
+
 questa pagina jsp è  inclusa tramite <b> direttiva </b>
 ed è accessibile da qualsiasi browser (fuori da WEB-INF)
 <br/>
